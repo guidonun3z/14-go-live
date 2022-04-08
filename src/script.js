@@ -37,7 +37,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Anfibio',
+            'Fredy',
             {
                 font: font,
                 size: 0.5,
